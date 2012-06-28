@@ -4,8 +4,8 @@ require File.expand_path('../lib/weatherbase/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["michael verdi"]
   gem.email         = ["michael.v.verdi@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Web scraper for the weatherbase site}
+  gem.summary       = %q{Web scraper for the weatherbase site}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
